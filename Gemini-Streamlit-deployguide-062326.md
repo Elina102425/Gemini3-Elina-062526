@@ -1,0 +1,1 @@
+Super, please create a user's guide in Traditional Chinese for this app including how to run it in local machine (step by step instructions for beginner). ending with 20 comprehensive follow up questions.
