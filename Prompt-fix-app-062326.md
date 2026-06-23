@@ -1,0 +1,5 @@
+Super, please keep all original features and adding additional features that Create a state-managed 'Questionnaire' component that renders 30 sequential questions for the 510(k) report, allowing user input for each and tracking progress.
+Implement a report generation service that takes the questionnaire state and produces a 3000-4000 word 510(k) technical review report in Markdown, applying a coral color theme to headers and key sections.
+Integrate a Markdown preview and editing component that allows users to manually refine the generated report, with live rendering.
+Add functionality to export the refined Markdown report into PDF, HTML, and MD file formats using a UI-based download button.
+Develop a dedicated module that allows users to upload, edit, and save their own set of questions in Markdown format, storing them for future report generation sessions. Please apply Professional Polish UI. Please fix potential bugs and iterate until get excellent results before show me results. Ending with 20 comprehensive follow up questions.
